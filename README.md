@@ -18,7 +18,9 @@ My name is Natasha and I'm a Backend Developer!
 
 
 ### Contacts:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/im_natasha_k)](https://t.me/im_natasha_k)
+https://t.me/im_natasha_k
+
+https://imnatashakonovalova@gmail.com
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=natasha-n-k&show_icons=true)
