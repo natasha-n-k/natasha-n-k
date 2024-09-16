@@ -2,8 +2,6 @@
 
 My name is Natasha and I'm a Backend Developer!
 
-- 🔭 I’m currently working on a Book club web application
-
 
 ### Technologies:
 
